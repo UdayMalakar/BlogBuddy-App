@@ -5,7 +5,8 @@
  Home Page
 ![Screenshot_20240229_220739](https://github.com/UdayMalakar/BlogBuddy-App/assets/147069723/02ff6a50-46c3-463f-b0fa-84f67c57c55b)
 
-![Screenshot_20240229_220800](https://github.com/UdayMalakar/BlogBuddy-App/assets/147069723/4207199a-9f55-4769-8f09-452e2e81e7af)
+
+![Screenshot_20240305_164108](https://github.com/UdayMalakar/BlogBuddy-App/assets/147069723/93dccff7-1541-40ee-95f7-d258c416bd62)
 
 SignUp Page
 
@@ -19,3 +20,12 @@ LogIn Page
 Profile Page
 
 ![Screenshot_20240229_220843](https://github.com/UdayMalakar/BlogBuddy-App/assets/147069723/05675a80-c314-459f-97b1-80ed26bac7f6)
+
+
+![Screenshot_20240305_163839](https://github.com/UdayMalakar/BlogBuddy-App/assets/147069723/f514b5ee-2a22-4c16-8538-e6ebaa6a79fd)
+
+categories Pages
+![Screenshot_20240305_163702](https://github.com/UdayMalakar/BlogBuddy-App/assets/147069723/a5dc735b-1e18-4a94-a1cc-530f3b5e7d4d)
+![Screenshot_20240305_163714](https://github.com/UdayMalakar/BlogBuddy-App/assets/147069723/0cc0b066-d026-47a7-a56f-5f712f3f0240)
+![Screenshot_20240305_163724](https://github.com/UdayMalakar/BlogBuddy-App/assets/147069723/2042a11c-ac3e-41b5-9318-6ae036d04710)
+
